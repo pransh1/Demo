@@ -1,0 +1,14 @@
+1723110043379 from GET /get with data: {}
+1723110103177 from GET /get with data: {}
+1723110137712 from GET /get with data: {}
+1723110642823 from GET /get with data: {}
+1723110660171 from GET /get with data: {}
+1723110718070 from GET /get with data: {}
+1723111116975 from POST /post with data: {}
+1723111169289 from POST /post with data: {}
+1723111204651 from POST /post with data: {}
+1723111481299 from GET /Public with data: {}
+1723111516542 from GET /Public with data: {}
+1723111535052 from GET /Public/index.html with data: {}
+1723111597127 from GET /app with data: {}
+1723111597142 from GET /app/ with data: {}
