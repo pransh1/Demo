@@ -1,6 +1,6 @@
-const express = require("express")
+const express = require("express");
 const router = express.Router();
-const {auth,validator} = require("./allmiddlewares")
+const {auth,validator} = require("./allmiddlewares");
 // router.use(express.json())
 router.use((req,res,next)=>{
   console.log("This is nested middleware")
